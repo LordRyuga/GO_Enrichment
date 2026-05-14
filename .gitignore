@@ -1,0 +1,17 @@
+dreg_hits.txt
+
+# Large raw datasets and reference files
+human_gene_annotation.tsv
+hg38.chrom.sizes
+hg38.fa
+hg38.fa.fai
+
+# Intermediate pipeline data (TSVs, BEDs, FAs, TXTs)
+filtered.tsv
+hg38_tss.bed
+hg38_tss_chr.bed
+hg38_promoters_500bp.bed
+hg38_promoters_500bp.fa
+hit_coords.txt
+hg38_promoters_500bp_GCGC_hits.txt
+hg38_GCGC_target_genes.tsv
